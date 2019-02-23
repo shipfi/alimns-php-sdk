@@ -57,7 +57,11 @@ class Constants
     const SMS_PARAMS = "SmsParams";
     const IMPORTANCE_LEVEL = "ImportanceLevel";
 
+    // 订阅时TAG用
     const FILTER_TAG    = 'FilterTag';
+
+    // 发送时Tag用
+    const MESSAGE_TAG = 'MessageTag';
 
     // some MNS ErrorCodes
     const INVALID_ARGUMENT = "InvalidArgument";
